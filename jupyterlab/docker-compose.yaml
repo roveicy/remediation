@@ -1,0 +1,20 @@
+version: "3.2"
+
+services:
+  jupyter:
+    image: jupyter/datascience-notebook:latest
+    container_name: jupyter
+    ports:
+      - 8888:8888
+    volumes:
+      - type: bind
+        source: ./data
+        target: /home/jovyan/work
+    environment:
+      - JUPYTER_TOKEN=temp*123
+    networks: 
+      - default
+
+networks:
+  default:
+    driver: bridge

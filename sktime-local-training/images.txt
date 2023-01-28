@@ -1,0 +1,735 @@
+{
+    "imageDetails": [
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:34b78e1b0c4eba9e81f3b4e6b54b3d61d65923da436291eff83ba8663c08c128",
+            "imageTags": [
+                "preprod-1.0.287.0"
+            ],
+            "imageSizeInBytes": 1397952166,
+            "imagePushedAt": "2021-11-10T15:13:18-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-07T21:57:34.217000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:48881989f3a395bc4d3936542b7cd0d098d65b092e0372d9d263abd94d7db899",
+            "imageTags": [
+                "0.20.0-cpu-py3-1.0.16.0"
+            ],
+            "imageSizeInBytes": 1251371212,
+            "imagePushedAt": "2022-08-12T11:17:48-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-08T03:35:10.176000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:e97b5e091417878157da618645a9b92ad46ab7f805c7f38e0a588d61cec25be9",
+            "imageTags": [
+                "preprod-1.0.325.0",
+                "0.23-1-cpu-py3-1.0.325.0"
+            ],
+            "imageSizeInBytes": 1499232824,
+            "imagePushedAt": "2022-03-18T12:31:58-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-06-14T15:18:54.695000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:c614dd15f197a96b84cca628381f876eb94532839e1c52caf84ec414a8c54d25",
+            "imageTags": [
+                "1.0-1-cpu-py3-cpu-py3",
+                "1.0-1-cpu-py3-1.0.20.0"
+            ],
+            "imageSizeInBytes": 1344559963,
+            "imagePushedAt": "2022-08-12T11:17:48-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-04T15:49:23.992000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:c194f7245e4cd6c0438eefc7052e876426b250f5f15a8c1ea69b4a6c2779365c",
+            "imageSizeInBytes": 1251370609,
+            "imagePushedAt": "2022-07-14T11:05:35-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-08T08:59:40.101000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:ca8c92500a8bc33811b90672bfdebcaa7e394e3ac02dee2fc2eb308ae2e43dc2",
+            "imageTags": [
+                "preprod-1.0.164.0"
+            ],
+            "imageSizeInBytes": 2158944179,
+            "imagePushedAt": "2020-08-12T00:25:04-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "lastRecordedPullTime": "2022-11-08T01:19:47.883000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:a864177b8e308023170f9b408687fa72418e8cf341206d62bba109e4490b498e",
+            "imageTags": [
+                "0.20.0-cpu-py3-1.0.7.0"
+            ],
+            "imageSizeInBytes": 1251370610,
+            "imagePushedAt": "2022-04-12T16:00:32-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-08T20:30:53.930000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:450b09e30ee6eb975a0a029b9f047361c033fa4bf0d7de0e241b350824f83769",
+            "imageSizeInBytes": 1251370609,
+            "imagePushedAt": "2022-06-09T11:25:14-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-08T11:40:53.719000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:6bc7a27466d38df09064e8582bebea55b8d2986c03bdbae3a288c42b1a0ea00c",
+            "imageTags": [
+                "preprod-1.0.90.0",
+                "preprod-1.0.91.0"
+            ],
+            "imageSizeInBytes": 351890765,
+            "imagePushedAt": "2019-09-04T11:49:26-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:0a833be92de1440f107d588975f170c83cdd78bba03a2dde572fda88988d527b",
+            "imageTags": [
+                "0.20.0-cpu-py3-1.0.195.0",
+                "preprod-1.0.195.0"
+            ],
+            "imageSizeInBytes": 1049246449,
+            "imagePushedAt": "2020-11-11T14:35:43-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-10T16:31:07.112000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:85311b416e80309a97e431ddc0d5461c615c6e093b970cb91f31d8d4a814af85",
+            "imageTags": [
+                "0.23-1-cpu-py3-1.0.46.0",
+                "0.23-1-cpu-py3",
+                "0.23-1-cpu-py3-cpu-py3"
+            ],
+            "imageSizeInBytes": 1446478475,
+            "imagePushedAt": "2022-10-24T21:17:05-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-10T12:16:34.536000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:36c484a1fbfa3a21423a65d01bc1528aa76b8668bcf9df6e22cab6cd5d8b7f37",
+            "imageTags": [
+                "1.0-1-arm64-cpu-py3",
+                "1.0-1-arm64-1.0.11.0",
+                "1.0-1-arm64"
+            ],
+            "imageSizeInBytes": 1305698365,
+            "imagePushedAt": "2022-10-24T21:17:22-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-10-24T21:17:23.287000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:0924c8fff44441d5dab74fc8ff7c5ecbc94af2215a4581e3302f850275bb900b",
+            "imageTags": [
+                "0.20.0-cpu-py3-1.0.238.0",
+                "0.20.0-cpu-py3-1.0.247.0",
+                "preprod-1.0.238.0",
+                "preprod-1.0.247.0"
+            ],
+            "imageSizeInBytes": 1093773209,
+            "imagePushedAt": "2021-03-26T12:58:39-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-03T18:20:34.255000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:dbda07a7647c95ce7997813a42e22248bff9ef6606ed3cf9b975506d48d3aca2",
+            "imageTags": [
+                "preprod-1.0.140.0"
+            ],
+            "imageSizeInBytes": 968595603,
+            "imagePushedAt": "2020-06-02T21:18:46-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "lastRecordedPullTime": "2022-11-07T22:52:39.626000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:aee67ec3aabe4d1cae36bd9a0eecea0eb515753ac6841b942e97729293550a49",
+            "imageTags": [
+                "0.23-1-cpu-py3-1.0.268.0",
+                "preprod-1.0.268.0"
+            ],
+            "imageSizeInBytes": 1393713616,
+            "imagePushedAt": "2021-08-27T15:00:47-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-06-01T11:30:49.762000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:474b551d63fb87348fb31594ab6f16b16fc70bfd8b1aa554bc985476c29a8b73",
+            "imageSizeInBytes": 788029837,
+            "imagePushedAt": "2020-02-17T16:13:19-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "lastRecordedPullTime": "2022-11-08T04:23:47.336000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:f150a6d00d19e41722cfc164eb5d4dbf6e00706ab3791a606c0a39039dd3b5ac",
+            "imageTags": [
+                "preprod-1.0.9.0",
+                "preprod-1.0.11.0",
+                "0.20.0-cpu-py3-1.0.9.0",
+                "0.20.0-cpu-py3-1.0.11.0"
+            ],
+            "imageSizeInBytes": 342793131,
+            "imagePushedAt": "2018-11-23T14:38:25-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "lastRecordedPullTime": "2022-03-23T00:25:29.366000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:17903082d19d3441dac4bd4db725dbd4a800be607a5ac0ba15ee5917b5202555",
+            "imageTags": [
+                "preprod-1.0.143.0",
+                "0.23-1-cpu-py3-1.0.143.0",
+                "preprod-1.0.142.0",
+                "preprod-1.0.155.0",
+                "preprod-1.0.150.0"
+            ],
+            "imageSizeInBytes": 1995678019,
+            "imagePushedAt": "2020-06-08T22:38:20-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "lastRecordedPullTime": "2022-10-12T09:41:48.043000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:f27a10c32e7ca8086080d00ea8c5b69f13e4b19b9f8e6e59ddd8e19792a19b5f",
+            "imageTags": [
+                "preprod-1.0.133.0"
+            ],
+            "imageSizeInBytes": 984421107,
+            "imagePushedAt": "2020-04-27T20:30:20-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "lastRecordedPullTime": "2022-11-07T23:55:45.358000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:03e97db7d5def3041b4ae2e62a81155476a68d41907dfcebb08216f981eff572",
+            "imageTags": [
+                "preprod-1.0.290.0",
+                "0.20.0-cpu-py3-1.0.290.0"
+            ],
+            "imageSizeInBytes": 1662874753,
+            "imagePushedAt": "2021-12-16T11:41:22-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-03T18:43:53.410000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:9e054e0c9540b15efe9bb877af9196be1f49d3885cb536c44fc33ead38339493",
+            "imageTags": [
+                "0.20.0-cpu-py3",
+                "0.20.0-cpu-py3-cpu-py3",
+                "0.20.0-cpu-py3-1.0.44.0"
+            ],
+            "imageSizeInBytes": 1358590189,
+            "imagePushedAt": "2022-10-24T21:16:52-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-10T14:51:06.018000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:1476311657fe444be8f95f472a8a91a3da577d558e1046678ee76c611f7132ca",
+            "imageTags": [
+                "0.20.0-cpu-py3-1.0.108.0",
+                "preprod-1.0.108.0",
+                "preprod-1.0.106.0"
+            ],
+            "imageSizeInBytes": 782006927,
+            "imagePushedAt": "2019-10-31T16:26:38-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:81cd77d072fe888f75251fe67d9edb98a1d427a5e4e22e1a43105ae587a6336b",
+            "imageTags": [
+                "preprod-1.0.104.0",
+                "0.20.0-cpu-py3-1.0.104.0"
+            ],
+            "imageSizeInBytes": 754852768,
+            "imagePushedAt": "2019-10-19T18:08:51-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:ea15579826e904f1f417ff756ea23d0347dfefd1e523ff3926864b06847949b6",
+            "imageTags": [
+                "preprod-1.0.110.0",
+                "preprod-1.0.114.0",
+                "preprod-1.0.113.0"
+            ],
+            "imageSizeInBytes": 843026481,
+            "imagePushedAt": "2019-12-20T15:57:45-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:7379be11896cc15982b0205f8e53866ff1e09ba53bc620212cb1b1fe0591edcb",
+            "imageTags": [
+                "preprod-1.0.80.0",
+                "0.20.0-cpu-py3-1.0.80.0"
+            ],
+            "imageSizeInBytes": 348137591,
+            "imagePushedAt": "2019-06-20T12:15:48-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:fc21b1b187c1980fa792c9bd648c34d60e8622ad0963c140a8eb60ceef2fc549",
+            "imageTags": [
+                "preprod-1.0.292.0",
+                "0.23-1-cpu-py3-1.0.292.0"
+            ],
+            "imageSizeInBytes": 1489689465,
+            "imagePushedAt": "2021-12-16T11:37:43-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-06-01T11:35:32.867000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:2ec1580756e6135455bcbcdff996c87bac72a0c8aa3bd924ff79372bd294f37a",
+            "imageTags": [
+                "1.0-1-cpu-py3-1.0.16.0"
+            ],
+            "imageSizeInBytes": 1310159295,
+            "imagePushedAt": "2022-06-09T11:27:04-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-07T22:24:08.456000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:f95c0ca44b9f420c7091edab809ac153cdbfe1de11fbe4adb497b4c635236a79",
+            "imageTags": [
+                "0.20.0-cpu-py3-1.0.222.0",
+                "preprod-1.0.222.0"
+            ],
+            "imageSizeInBytes": 1666567159,
+            "imagePushedAt": "2021-03-08T14:22:56-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:e7887de688db0abeb4ae7f0467d18c69c613d3795bc23c425ec0574b19b81350",
+            "imageTags": [
+                "1.0-1",
+                "1.0-1-1.0.34.0",
+                "1.0-1-cpu-py3"
+            ],
+            "imageSizeInBytes": 1239488392,
+            "imagePushedAt": "2022-10-24T21:16:58-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-10T16:30:47.283000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:d46ce53979f75ef03629a3d6a16da3c1cf95323996f609a4b9b1f58521b366f5",
+            "imageSizeInBytes": 352101644,
+            "imagePushedAt": "2019-10-18T20:26:37-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "lastRecordedPullTime": "2022-11-07T22:45:25.387000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:19539125795386251a55dabbaeba687a065b5494d4d66c225263a9dc52073367",
+            "imageTags": [
+                "preprod-1.0.289.0"
+            ],
+            "imageSizeInBytes": 1417143525,
+            "imagePushedAt": "2021-12-15T13:26:27-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-07T21:44:04.529000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:1b2ef52b7ac1f91e84fbbec95029c894ec371c8cd31b501e8fa09fb348fdd9be",
+            "imageTags": [
+                "0.23-1-cpu-py3-1.0.311.0",
+                "preprod-1.0.311.0"
+            ],
+            "imageSizeInBytes": 1502221603,
+            "imagePushedAt": "2022-02-17T18:17:24-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-10T13:41:03.699000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:e3373415c3db5721ffce0b3c489303e37b2ecf9ebcd1fe50d4c6f00fd232568b",
+            "imageSizeInBytes": 1344559360,
+            "imagePushedAt": "2022-07-22T11:12:30-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-08T03:53:56.434000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:1b1a557ceb336c12d1f8ade5f0cd79781a8df07dde3128544dfef6679feb261e",
+            "imageTags": [
+                "0.23-1-cpu-py3-1.0.7.0"
+            ],
+            "imageSizeInBytes": 1507798848,
+            "imagePushedAt": "2022-04-12T16:01:09-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-10T07:22:50.669000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:ebe6c48ad238c1efc423d12c4d679ac43780bbb0a3cb28b4915280be0ba20227",
+            "imageTags": [
+                "preprod-1.0.95.0",
+                "0.20.0-cpu-py3-1.0.95.0",
+                "preprod-1.0.94.0"
+            ],
+            "imageSizeInBytes": 351914966,
+            "imagePushedAt": "2019-09-04T15:32:03-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:06acc860d41a81569983a5f1b6d580fd1d432e2700208f42e2aa48b53ad011db",
+            "imageTags": [
+                "preprod-1.0.178.0",
+                "0.23-1-cpu-py3-1.0.178.0",
+                "preprod-1.0.177.0"
+            ],
+            "imageSizeInBytes": 2056107696,
+            "imagePushedAt": "2020-09-30T19:57:37-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:ef343a5150e48812b08a0ff081316be3fd8a4cfb104bced8e899902bd66e62f5",
+            "imageTags": [
+                "0.23-1-cpu-py3-1.0.198.0",
+                "preprod-1.0.198.0"
+            ],
+            "imageSizeInBytes": 1023644596,
+            "imagePushedAt": "2020-11-21T11:56:29-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-08T21:32:15.486000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:1dd6063336766255ed9a98232407713b94bad8fa4c66e291f76d01e5d4556555",
+            "imageTags": [
+                "0.20.0-cpu-py3-1.0.14.0",
+                "0.20.0-cpu-py3-1.0.50.0",
+                "preprod-1.0.49.0",
+                "preprod-1.0.14.0",
+                "preprod-1.0.50.0"
+            ],
+            "imageSizeInBytes": 342914269,
+            "imagePushedAt": "2018-11-26T20:59:29-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "lastRecordedPullTime": "2022-11-03T15:08:31.697000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:f5e2f1bdcf6378587673e375f363c85e843a8908da516776c5ae729646f77a3d",
+            "imageTags": [
+                "preprod-1.0.100.0",
+                "0.20.0-cpu-py3-1.0.100.0"
+            ],
+            "imageSizeInBytes": 352053902,
+            "imagePushedAt": "2019-09-20T16:36:19-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:fdb155cddfeb3e2a86fdaaaeed160bb970b04575f9ae562df29c415c8a924851",
+            "imageTags": [
+                "0.23-1-cpu-py3-1.0.173.0",
+                "preprod-1.0.173.0",
+                "preprod-1.0.172.0"
+            ],
+            "imageSizeInBytes": 2161327541,
+            "imagePushedAt": "2020-09-18T03:26:25-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-06-06T12:36:54.097000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:e1c4141526c11550c0fe5787a35c4ad43b3ca4e5d4b3da6c45612998cfde4d0a",
+            "imageSizeInBytes": 1507798846,
+            "imagePushedAt": "2022-06-09T11:25:16-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-10T11:58:47.089000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:56acf86061d666c7168f1c486618cc00f081f32ce44d1cc034ed322e26182c6f",
+            "imageSizeInBytes": 1507798847,
+            "imagePushedAt": "2022-05-19T11:21:42-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-10T11:46:20.198000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:a52e7fbd82affd95d55e1ace7ae4c3758d5d8f2b53dfa6ae193e4929bf28f3cb",
+            "imageTags": [
+                "preprod-1.0.124.0",
+                "preprod-1.0.122.0",
+                "0.20.0-cpu-py3-1.0.122.0"
+            ],
+            "imageSizeInBytes": 869445547,
+            "imagePushedAt": "2020-03-04T22:49:23-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "lastRecordedPullTime": "2022-11-03T18:39:25.926000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:73af15be9c361db7affa7ecae02ffc7549b3ddb86978c7566c2f6235271e65c2",
+            "imageSizeInBytes": 1251370610,
+            "imagePushedAt": "2022-05-19T11:21:41-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-07T21:20:22.799000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:d3e23f4c55cce595e96ffce47f7f50d44223dc77aa314c4cf2329ca1e4fb251f",
+            "imageTags": [
+                "1.0-1-cpu-py3-1.0.6.0"
+            ],
+            "imageSizeInBytes": 1542855453,
+            "imagePushedAt": "2022-05-19T11:24:18-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-07T17:07:20.295000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:67653333eb5446a1fa0a44abf55419cccd2b059ebf69191b679b7d33d0464cb7",
+            "imageTags": [
+                "0.23-1-cpu-py3-1.0.17.0"
+            ],
+            "imageSizeInBytes": 1507798848,
+            "imagePushedAt": "2022-07-14T11:05:36-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-07T21:58:32.116000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:fc8c3a617ff0e436c25f3b64d03e1f485f1d159478c26757f3d1d267fc849445",
+            "imageTags": [
+                "1.0-1-cpu-py3-1.0.19.0"
+            ],
+            "imageSizeInBytes": 1324585041,
+            "imagePushedAt": "2022-07-14T11:07:23-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-08T00:02:04.338000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:5f333ff5b8329ebb3187c0acceb740e3ffa2f5a6fed8c1ab89338bf7d4b586fd",
+            "imageTags": [
+                "preprod-1.0.103.0"
+            ],
+            "imageSizeInBytes": 777627285,
+            "imagePushedAt": "2019-10-30T13:50:24-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "lastRecordedPullTime": "2022-11-08T04:23:22.045000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:187059ae95cf373668688f020e11eb802da22bda7127a29fb8c598a42613a417",
+            "imageTags": [
+                "preprod-1.0.220.0",
+                "0.23-1-cpu-py3-1.0.221.0",
+                "preprod-1.0.221.0"
+            ],
+            "imageSizeInBytes": 1417552953,
+            "imagePushedAt": "2021-02-22T17:00:08-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-03-30T15:00:10.083000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:b1219fd4b7c1873f8b4952d73f676e0fb5eec75d51deeeaaa2777f685ff939cb",
+            "imageSizeInBytes": 1251370610,
+            "imagePushedAt": "2022-07-22T11:10:54-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-10T11:56:45.486000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:dde458ae11740f5eb0ae09ae4ec7438d241c1d3dd55853523f7c3a5cc6db6e76",
+            "imageTags": [
+                "preprod-1.0.217.0"
+            ],
+            "imageSizeInBytes": 1271960291,
+            "imagePushedAt": "2021-02-16T21:23:18-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-07T23:42:51.981000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:4ecd5da48e21a211e77ed5ee430265d6e91364912ac1bc1d768a9f9b00177e9f",
+            "imageTags": [
+                "preprod-1.0.248.0",
+                "preprod-1.0.237.0",
+                "0.23-1-cpu-py3-1.0.248.0",
+                "preprod-1.0.239.0",
+                "0.23-1-cpu-py3-1.0.239.0",
+                "preprod-1.0.246.0"
+            ],
+            "imageSizeInBytes": 1304522784,
+            "imagePushedAt": "2021-03-25T20:28:48-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-03-04T16:06:26.801000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:293eb33c5e564361d07f62c6ba7c675944c523ad4a93131f09958269321ea348",
+            "imageTags": [
+                "preprod-1.0.87.0",
+                "preprod-1.0.84.0",
+                "0.20.0-cpu-py3-1.0.84.0",
+                "preprod-1.0.88.0",
+                "0.20.0-cpu-py3-1.0.87.0"
+            ],
+            "imageSizeInBytes": 348495285,
+            "imagePushedAt": "2019-08-07T13:12:29-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "lastRecordedPullTime": "2022-11-02T09:46:10.712000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:985cb1d132aca17b750ceb476ea5626ff801bdeb49d2b9e9033691ebe78fd039",
+            "imageTags": [
+                "preprod-1.0.206.0",
+                "preprod-1.0.205.0",
+                "0.23-1-cpu-py3-1.0.205.0"
+            ],
+            "imageSizeInBytes": 1256696731,
+            "imagePushedAt": "2020-12-30T02:35:15-05:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-08-25T10:39:37.009000-04:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:15d406612ed5c542743af479db5c98392cdf30ee46080c8f9e4857606c6697ff",
+            "imageSizeInBytes": 1507798848,
+            "imagePushedAt": "2022-07-22T11:10:54-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-08T21:20:54.214000-05:00"
+        },
+        {
+            "registryId": "683313688378",
+            "repositoryName": "sagemaker-scikit-learn",
+            "imageDigest": "sha256:4b41b03ae858fca42720730b06e2803b3b046c676c143526cba9ed5a3483e4ad",
+            "imageTags": [
+                "0.23-1-cpu-py3-1.0.34.0"
+            ],
+            "imageSizeInBytes": 1513552784,
+            "imagePushedAt": "2022-08-12T12:15:14-04:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2022-11-10T14:36:16.439000-05:00"
+        }
+    ]
+}
